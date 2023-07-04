@@ -1,9 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -27,12 +24,11 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Microverse-mini-project] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Microverse-mini-mroject]** is a mini-project that upskill to create a feature branch and test linters in order to have professional-looking code.
 
@@ -135,3 +131,10 @@ I would like to thank my stand up team and my coding partner.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+  <!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/brighton0102/Microverse-mini-project/blob/hello-microverse/LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
